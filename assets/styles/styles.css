@@ -66,3 +66,22 @@ footer {
   width: 70%;
   margin: auto;
 }
+
+.musics {
+  width: 70%;
+  margin: auto;
+  display: flex;
+}
+
+.music-image {
+  width: 50%;
+}
+
+.music-list {
+  align-self: center;
+  width: 50%;
+}
+
+.music-list b {
+  color: orange;
+}
