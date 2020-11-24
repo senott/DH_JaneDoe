@@ -41,6 +41,11 @@ nav ul li a {
   padding: 0px 10px;
 }
 
+body.home a.home, body.about a.about, body.music a.music, body.contact a.contact {
+  color: darkorange !important;
+  cursor: default;
+}
+
 main img {
   width: 100%;
 }
