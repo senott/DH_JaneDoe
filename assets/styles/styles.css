@@ -94,7 +94,7 @@ footer {
   color: orange;
 }
 
-.contact-container {
+.contact-container, .music-container {
   width: 70%;
   margin: auto;
   display: flex;
@@ -102,7 +102,7 @@ footer {
   align-items: flex-start;
 }
 
-.contact-title {
+.contact-title, .music-title {
   width: 100%;
   align-self: left;
 }
