@@ -99,10 +99,7 @@ code .
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
+Just access the project demo URL and get to know more about Jane Doe.
 
 
 <!-- ROADMAP -->
@@ -150,15 +147,15 @@ No aditional libraries or softwares were used.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/senott/DH_JaneDoe.svg?style=flat-square
 [contributors-url]: https://github.com/senott/DH_JaneDoe/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/senott/DH_JaneDoe.svg?style=flat-square
 [forks-url]: https://github.com/senott/DH_JaneDoe/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/senott/DH_JaneDoe.svg?style=flat-square
 [stars-url]: https://github.com/senott/DH_JaneDoe/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/senott/DH_JaneDoe.svg?style=flat-square
 [issues-url]: https://github.com/senott/DH_JaneDoe/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/senott/DH_JaneDoe.svg?style=flat-square
 [license-url]: https://github.com/senott/DH_JaneDoe/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/senott
