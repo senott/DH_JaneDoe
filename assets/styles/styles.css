@@ -49,10 +49,6 @@ body.home a.home, body.about a.about, body.music a.music, body.contact a.contact
   cursor: default;
 }
 
-main img {
-  width: 100%;
-}
-
 footer {
   background-color: #F8F8F8;
   text-align: center;
@@ -68,6 +64,7 @@ footer {
 
 .main-image {
   margin-top: -150px;
+  width: 100%;
 }
 
 .concept {
@@ -82,24 +79,24 @@ footer {
 }
 
 .music-image {
-  width: 50%;
+  max-width: 100%;
 }
 
 .music-list {
   align-self: center;
   width: 50%;
+  flex-wrap: wrap;
 }
 
 .music-list b {
   color: orange;
 }
 
-.contact-container, .music-container {
+.contact-container, .music-container, .about-container {
   width: 70%;
   margin: auto;
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
 }
 
 .contact-title, .music-title {
@@ -110,4 +107,21 @@ footer {
 .contact {
   align-self: flex-start;
   width: 100%;
+}
+
+.about-title {
+  align-self: center;
+  font-size: 2em;
+  font-family: 'Raleway-Bold', sans-serif;
+  margin-top: 80px;
+}
+
+.about {
+  align-self: center;
+  text-align: center;
+}
+
+.image-small {
+  width: 50%;
+  margin-bottom: 50px;
 }
