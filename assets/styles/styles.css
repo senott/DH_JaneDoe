@@ -18,8 +18,11 @@ header {
   border-bottom: 1px solid grey;
 }
 
-h1 {
+header h1 {
   text-align: center;
+}
+
+h1 {
   font-family: 'Raleway-Bold', sans-serif;
   text-transform: uppercase;
   font-size: 20px;
@@ -89,4 +92,22 @@ footer {
 
 .music-list b {
   color: orange;
+}
+
+.contact-container {
+  width: 70%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.contact-title {
+  width: 100%;
+  align-self: left;
+}
+
+.contact {
+  align-self: flex-start;
+  width: 100%;
 }
