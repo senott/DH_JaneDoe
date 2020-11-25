@@ -67,7 +67,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://quizzical-roentgen-3dc621.netlify.app/index.html)
 
-Simple HTML and CSS built based on mockups provided by the course instructors.
+Simple HTML and CSS site built based on mockups provided by the course instructors.
 
 ### Built With
 * [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
