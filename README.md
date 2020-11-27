@@ -24,7 +24,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/60f0e0af-defa-4494-9910-0fa7f963d7a4/deploy-status)](https://app.netlify.com/sites/quizzical-roentgen-3dc621/deploys)
 
 <p align="center">
   <h3 align="center">Jane Doe</h3>
