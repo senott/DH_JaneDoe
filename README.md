@@ -35,7 +35,7 @@
     <a href="https://github.com/senott/DH_JaneDoe"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://quizzical-roentgen-3dc621.netlify.app/index.html">View Demo</a>
+    <a href="https://jane-doe-singer.netlify.app/">View Demo</a>
     ·
     <a href="https://github.com/senott/DH_JaneDoe/issues">Report Bug</a>
     ·
@@ -65,7 +65,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://quizzical-roentgen-3dc621.netlify.app/index.html)
+[![Product Name Screen Shot][product-screenshot]](https://jane-doe-singer.netlify.app/)
 
 Simple HTML and CSS site built based on mockups provided by the course instructors.
 
